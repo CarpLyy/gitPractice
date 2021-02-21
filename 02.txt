@@ -3,7 +3,6 @@
       git add 文件名 	添加某个文件到暂存区
       git restore --staged 文件名	取消暂存
 暂存区
-      git commit -m 信息 文件名		提交到本地库
       git commit -m 信息 		提交全部到本地库
       git commit -a 			提交后提示完成描述信息，vim编辑语法
 本地库
