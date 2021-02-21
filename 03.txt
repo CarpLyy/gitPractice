@@ -1,0 +1,5 @@
+git log 	查看提交日志
+
+git status	查看工作区暂存区状态
+
+git init	初始化
