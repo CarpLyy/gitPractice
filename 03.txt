@@ -1,4 +1,8 @@
 git log 	查看提交日志
+     	可翻页，q退出，b上一页
+git log --pretty=oneline
+git log --oneline
+git reflog
 
 git status	查看工作区暂存区状态
 
