@@ -1,0 +1,10 @@
+git branch -v
+
+git branch 分支名
+
+git checkout 目的分支名
+
+git branch -d 目的分支名
+
+git merge 分支名	合并到当前分支
+手动处理冲突	git add 	git commit  -m ''
