@@ -9,3 +9,8 @@ git status	查看工作区暂存区状态
 git init	初始化
 
 git --version	
+
+git reset 索引号	本地库指针移动
+git reset --hard 索引号 	工作区暂存区本地库 指针移动
+--soft 	本地库指针移动
+--mixed	暂存区和本地库指针移动
